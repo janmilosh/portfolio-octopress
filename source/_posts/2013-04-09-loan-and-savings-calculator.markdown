@@ -1,16 +1,13 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-04-09 16:12:52+00:00
 layout: post
 slug: loan-and-savings-calculator
 title: Loan and Savings Calculator
-wordpress_id: 219
 categories:
 - Applications
-tags:
 - JavaScript
-- Single page
 ---
 
 [![Loan and savings calculator](http://janmilosh.com/wp-content/uploads/2013/04/tvm-calculator.png)](http://janmilosh.com/time-value-of-money)

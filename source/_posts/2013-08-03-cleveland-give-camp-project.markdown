@@ -1,16 +1,14 @@
 ---
-author: janmilosh
 comments: false
-date: 2013-08-03 14:26:09+00:00
+sharing: false
+date: 2013-07-24 14:26:09+00:00
 layout: post
 slug: cleveland-give-camp-project
 title: Cleveland Give Camp project
-wordpress_id: 570
 categories:
 - Client Sites
-tags:
-- GiveCamp
 - WordPress
+- Charity
 ---
 
 [![GASPohio.org screenshot](http://janmilosh.com/wp-content/uploads/2013/08/GASP-site.png)](http://gaspohio.org)

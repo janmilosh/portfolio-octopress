@@ -1,16 +1,14 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-04-27 19:30:29+00:00
 layout: post
 slug: poker-hand-evaluator
 title: Poker hand evaluator
-wordpress_id: 242
 categories:
 - Applications
-tags:
+- Games
 - JavaScript
-- Poker
 ---
 
 [![Poker Hand Comparer](http://janmilosh.com/wp-content/uploads/2013/04/poker-hand.png)](http://janmilosh.com/poker)

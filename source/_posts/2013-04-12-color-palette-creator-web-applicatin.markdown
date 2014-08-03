@@ -1,15 +1,12 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-04-12 18:28:19+00:00
 layout: post
 slug: color-palette-creator-web-applicatin
 title: Color palette creator web application
-wordpress_id: 230
 categories:
 - Applications
-tags:
-- Color
 - JavaScript
 ---
 

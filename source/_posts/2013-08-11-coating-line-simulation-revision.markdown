@@ -1,17 +1,15 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-08-11 19:08:58+00:00
 layout: post
 slug: coating-line-simulation-revision
 title: Coating line simulation revision
-wordpress_id: 750
 categories:
 - Applications
-tags:
 - Animation
 - JavaScript
-- svg
+- D3.js
 ---
 
 [![Coating Line Animation](http://janmilosh.com/wp-content/uploads/2013/08/simulation-2.png)](http://janmilosh.com/simulation-2)

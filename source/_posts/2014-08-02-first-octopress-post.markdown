@@ -1,5 +1,6 @@
 ---
 layout: post
+sharing: false
 title: "First Octopress post"
 date: 2014-08-02 22:21:29 -0400
 comments: false

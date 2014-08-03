@@ -1,18 +1,15 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-08-03 15:19:47+00:00
 layout: post
 slug: coating-line-simulation-using-d3-javascript-library
 title: Coating line simulation using D3 JavaScript library
-wordpress_id: 575
 categories:
 - Applications
-tags:
 - Animation
-- D3
+- D3.js
 - JavaScript
-- svg
 ---
 
 [![Coating line simulation animation](http://janmilosh.com/wp-content/uploads/2013/08/box-animation.png)](http://janmilosh.com/simulation)

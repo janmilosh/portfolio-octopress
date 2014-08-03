@@ -1,14 +1,12 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-03-16 14:31:36+00:00
 layout: post
 slug: marlenehartzler-com-flute-teacher-website
 title: Marlenehartzler.com, Flute Teacher Website
-wordpress_id: 183
 categories:
 - Client Sites
-tags:
 - WordPress
 ---
 

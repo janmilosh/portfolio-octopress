@@ -1,16 +1,13 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-05-12 15:10:19+00:00
 layout: post
 slug: music-chord-transposer-application
 title: Music chord transposer application
-wordpress_id: 261
 categories:
 - Applications
-tags:
 - JavaScript
-- Music
 ---
 
 [![Music chord transposer](http://janmilosh.com/wp-content/uploads/2013/05/transposer.png)](http://janmilosh.com/transposer)

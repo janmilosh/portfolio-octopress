@@ -1,16 +1,12 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2012-11-01 08:46:51+00:00
 layout: post
 slug: house-construction-photo-journal
 title: House Construction Photo Journal
-wordpress_id: 1
 categories:
 - Personal Sites
-tags:
-- Blog
-- Multiple themes
 - WordPress
 ---
 

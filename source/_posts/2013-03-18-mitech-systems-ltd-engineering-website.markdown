@@ -1,16 +1,13 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-03-18 15:48:24+00:00
 layout: post
 slug: mitech-systems-ltd-engineering-website
 title: Mitech Systems, Ltd. Engineering Website
-wordpress_id: 193
 categories:
 - Client Sites
-tags:
-- Custom Post Types
-- Custom Taxonomies
+- WordPress
 ---
 
 [![Mitech Systems, Ltd. Screenshot](http://janmilosh.com/wp-content/uploads/2013/03/machinedesignohio-screenshot.png)](http://machinedesignohio.com)

@@ -1,14 +1,12 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-05-18 15:45:36+00:00
 layout: post
 slug: productivity-calculator-for-therapists
 title: Productivity calculator for therapists
-wordpress_id: 270
 categories:
 - Applications
-tags:
 - JavaScript
 ---
 

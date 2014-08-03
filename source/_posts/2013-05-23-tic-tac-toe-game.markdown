@@ -1,14 +1,12 @@
 ---
-author: janmilosh
 comments: false
+sharing: false
 date: 2013-05-23 21:13:19+00:00
 layout: post
 slug: tic-tac-toe-game
 title: Tic-tac-toe game
-wordpress_id: 292
 categories:
 - Applications
-tags:
 - Games
 - JavaScript
 ---
