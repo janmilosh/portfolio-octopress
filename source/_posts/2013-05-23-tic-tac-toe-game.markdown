@@ -3,7 +3,6 @@ comments: false
 sharing: false
 date: 2013-05-23 21:13:19+00:00
 layout: post
-slug: tic-tac-toe-game
 title: Tic-tac-toe game
 categories:
 - Applications
@@ -11,7 +10,7 @@ categories:
 - JavaScript
 ---
 
-[![tic-tac-toe game with cat faces](http://janmilosh.com/wp-content/uploads/2013/05/kitty-tac-toe1.png)](http://janmilosh.com/tic-tac-toe)
+[![tic-tac-toe game with cat faces]({{root_url}}/images/kitty-tac-toe.png)](http://janmilosh.com/tic-tac-toe)
 
 This game was written in JavaScript and was another "challenge" project. Play it here: [janmilosh.com/tic-tac-toe](http://janmilosh.com/tic-tac-toe). The player moves first and can choose the "easy game" option at the click of a button. In this case, the computer will always block a move or complete a row to win, but otherwise makes random moves.
 

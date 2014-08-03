@@ -3,14 +3,13 @@ comments: false
 sharing: false
 date: 2013-03-18 15:48:24+00:00
 layout: post
-slug: mitech-systems-ltd-engineering-website
 title: Mitech Systems, Ltd. Engineering Website
 categories:
 - Client Sites
 - WordPress
 ---
 
-[![Mitech Systems, Ltd. Screenshot](http://janmilosh.com/wp-content/uploads/2013/03/machinedesignohio-screenshot.png)](http://machinedesignohio.com)
+[![Mitech Systems, Ltd. Screenshot]({{root_url}}/images/machinedesignohio-screenshot.png)](http://machinedesignohio.com)
 
 This is a re-design of my first website, [machinedesignohio.com (Mitech Systems, Ltd.)](http://machinedesignohio.com). The site was originally an all static-page site, but was re-built with a custom theme and custom post types. There is one custom post type for projects and another for resources, each with it's own separate indexing system (custom taxonomies).
 

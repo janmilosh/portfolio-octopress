@@ -3,7 +3,6 @@ comments: false
 sharing: false
 date: 2013-07-24 14:26:09+00:00
 layout: post
-slug: cleveland-give-camp-project
 title: Cleveland Give Camp project
 categories:
 - Client Sites
@@ -11,7 +10,7 @@ categories:
 - Charity
 ---
 
-[![GASPohio.org screenshot](http://janmilosh.com/wp-content/uploads/2013/08/GASP-site.png)](http://gaspohio.org)
+[![GASPohio.org screenshot]({{root_url}}/images/GASP-site.png)](http://gaspohio.org)
 
 I recently had the privilege of attending Cleveland Give Camp and working on a website for a great charity--[GASPohio.org](http://gaspohio.org). The site is built on my custom WordPress theme (incorporating [Foundation by Zurb](http://foundation.zurb.com) for responsiveness).
 

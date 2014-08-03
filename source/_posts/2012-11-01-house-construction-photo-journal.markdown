@@ -3,16 +3,15 @@ comments: false
 sharing: false
 date: 2012-11-01 08:46:51+00:00
 layout: post
-slug: house-construction-photo-journal
 title: House Construction Photo Journal
 categories:
 - Personal Sites
 - WordPress
 ---
 
-[![Round House Project Site](http://janmilosh.com/wp-content/uploads/2013/02/house-screenshot2.jpg)](http://house.milosh.me)
+[![Round House Project Site]({{root_url}}/images/house-screenshot2.jpg)](http://house.milosh.me)
 
-[![Round House Project](http://janmilosh.com/wp-content/uploads/2013/02/house-screenshot.jpg)](http://house.milosh.me)
+[![Round House Project]({{root_url}}/images/house-screenshot.jpg)](http://house.milosh.me)
 
 [Round House Project](http://milosh.me/house) is a photo blog (journal) of our home construction project. This is another custom WordPress website. One special feature is the option to change themes (color schemes) via a selector in the right header. There are five themes to choose from.
 

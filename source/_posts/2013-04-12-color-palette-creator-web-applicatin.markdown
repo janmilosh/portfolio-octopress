@@ -3,14 +3,13 @@ comments: false
 sharing: false
 date: 2013-04-12 18:28:19+00:00
 layout: post
-slug: color-palette-creator-web-applicatin
 title: Color palette creator web application
 categories:
 - Applications
 - JavaScript
 ---
 
-[![Take-Five Color Palette Application](http://janmilosh.com/ipad/wp-content/uploads/2013/04/color-palette.png)](http://janmilosh.com/color-palette)
+[![Take-Five Color Palette Application]({{root_url}}/images/color-palette.png)](http://janmilosh.com/color-palette)
 
 The idea for my [Take-Five Color Palette Creator](http://janmilosh.com/color-palette) came from the desire to create a color picking tool that I can really use on projects.
 
